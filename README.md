@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Hi there 👋, I'm Tim 👨‍💻
+[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tim5633)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tim5633)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **tim5633/tim5633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
