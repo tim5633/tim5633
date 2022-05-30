@@ -2,10 +2,10 @@
 ![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tim5633&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tim5633&show_icons=true&theme=cobalt)
 
-<!-- 
-[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Maciel-0072b1?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/matheus-maciel1/ "Connect on LinkedIn") -->
 
-<a href="http://linkedin.com/in/matheus-maciel1/"><img src="https://github.com/matheuse07/MatheusMaciel/blob/52e4e810a22e6b74b3e3ada698f0649850fe61aa/etc/thumbs_up.png" align="right" height="275" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Maciel-0072b1?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/matheus-maciel1/ "Connect on LinkedIn")
+
+<!-- <a href="http://linkedin.com/in/matheus-maciel1/"><img src="https://github.com/matheuse07/MatheusMaciel/blob/52e4e810a22e6b74b3e3ada698f0649850fe61aa/etc/thumbs_up.png" align="right" height="275" /></a> -->
 
 
 - 💻 Learning Data Science with **Python**, **R**, **MongoDB**, **PostgreSQL** and **Tableau**
