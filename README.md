@@ -8,8 +8,8 @@
 <!-- <a href="http://linkedin.com/in/matheus-maciel1/"><img src="https://github.com/matheuse07/MatheusMaciel/blob/52e4e810a22e6b74b3e3ada698f0649850fe61aa/etc/thumbs_up.png" align="right" height="275" /></a> -->
 
 
-- 💻 Learning Data Science with **Python**, **R**, **MongoDB**, **PostgreSQL** and **Tableau**
-- 📭 [Reach out](#hi-there,-i'm-matheus) to talk about Studying Abroad, Data Science, Business, and everything in between!
+<!-- - 💻 Learning Data Science with **Python**, **R**, **MongoDB**, **PostgreSQL** and **Tableau**
+- 📭 [Reach out](#hi-there,-i'm-matheus) to talk about Studying Abroad, Data Science, Business, and everything in between! -->
 
 
 <!--
