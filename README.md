@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tim5633&show_icons=true&theme=cobalt)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-KuanTing%20Liu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kuan-ting-liu-474889199/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-KuanTing%20Liu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.www.linkedin.com/in/tim-kt-liu/ "Connect on LinkedIn")
 <!-- [![Telegram Badge](https://img.shields.io/badge/-KuanTing%20LIu-0072b1?style=flat&logo=telegram&logoColor=white)](+886 961558651/ "Connect on Telegram") -->
 
 <!-- https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
